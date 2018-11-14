@@ -1,2 +1,2 @@
 # beers_catalogue
-Example to train how to connect to an API
+Integrating an API
